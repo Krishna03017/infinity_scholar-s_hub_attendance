@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Scholar's Hub",
+  "description": "An advanced, mobile-friendly student attendance tracking and faculty management platform for tutoring and test-prep centers. Built with beautiful bento-grid layouts, scheduling calendars, broadcast composers, and analytical reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
